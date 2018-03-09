@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "app-lottery.sol",
+  "name": "Fontend of Lottery.sol smart contract",
   "icons": [
     {
       "src": "favicon.ico",

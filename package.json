@@ -1,7 +1,13 @@
 {
-  "name": "lottery-react",
-  "version": "0.1.0",
-  "private": true,
+  "name": "app-lottery.sol",
+  "version": "0.0.1",
+  "keywords": [
+    "eth",
+    "solidity",
+    "smart-contract",
+    "lottery",
+    "react"
+  ],
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
